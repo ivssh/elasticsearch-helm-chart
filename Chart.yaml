@@ -1,0 +1,8 @@
+description: Elastic helm chart using elastic operator pattern
+home: https://github.com/elastic/helm-charts
+maintainers:
+- email: abhilash.gis@gmail.com
+  name: Abhilash Bolla
+name: elastic-cloud
+version: 1.0.0
+appVersion: 1.0.0
