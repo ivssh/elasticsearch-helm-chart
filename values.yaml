@@ -10,7 +10,7 @@ elastic:
     node.ingest: true
     node.store.allow_mmap: false
   env:
-    ES_JAVA_OPTS: -Xms1g -Xmx1g
+    ES_JAVA_OPTS: -Xms2g -Xmx2g
   podAnnotations: {}
   volumeClaimTemplate:
     accessModes: [ "ReadWriteOnce" ]
