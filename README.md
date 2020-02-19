@@ -1,6 +1,6 @@
-# Elastic Cloud on Kubernetes Helm Chart
+# ECK Helm Chart based on Elastic operator pattern
 
-This functionality is in beta and is subject to change. The design and code is less mature than official GA features and is being provided as-is with no warranties. Beta features are not subject to the support SLA of official GA features.
+This Helm chart is based on Elastic operator pattern. Currently in beta.
 
 ## Requirements
 
